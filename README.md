@@ -1,6 +1,6 @@
 <h2 align="centre">🎵 K556666 MUSIC BOT</h2>
 
-### K556666 Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### K556666 music
 
 <p align="center"><a href="https://t.me/klimanam"><img src="https://telegra.ph/file/c9e736acd2b53c987b152.jpg" width="300"></a></p>
 
